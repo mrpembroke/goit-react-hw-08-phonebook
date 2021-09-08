@@ -1,0 +1,44 @@
+.logoSide {
+  padding: 10px;
+}
+
+.logoBackground {
+  /* @include flex(); */
+  flex-direction: column;
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  margin: 0 auto;
+
+  border: 1px dotted #00008b;
+  border-radius: 50%;
+  background-color: #f0ffff;
+}
+
+.logo {
+  color: #00008b;
+}
+
+.logotext {
+  font-size: 20px;
+  font-family: 'Bodoni Moda', serif;
+  font-style: italic;
+  color: #00008b;
+}
+
+.sloganSide {
+  padding: 10px;
+  text-align: center;
+}
+
+.mainTitle {
+  margin-bottom: 40px;
+  font-size: 40px;
+  color: #00008b;
+}
+
+.slogan {
+  margin-bottom: 40px;
+  font-size: 24px;
+  color: #0000cd;
+}
